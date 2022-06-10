@@ -46,7 +46,6 @@ accuracy
 dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 ## Output:
-![decision tree classifier model](sam.png)
 ### DATA HEAD:
 ![image](https://user-images.githubusercontent.com/93427264/172993960-765362ca-3978-4599-b2e6-ec95aad50da3.png)
 ### INFORMATION:
