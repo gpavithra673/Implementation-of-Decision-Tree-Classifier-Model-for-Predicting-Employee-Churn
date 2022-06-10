@@ -48,7 +48,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 ![decision tree classifier model](sam.png)
 ### DATA HEAD:
-![image](https://user-images.githubusercontent.com/93427264/172993330-4d120118-2fd7-4265-b7cd-615e3e950276.png)
+![image](https://user-images.githubusercontent.com/93427264/172993960-765362ca-3978-4599-b2e6-ec95aad50da3.png)
 ### INFORMATION:
 ![image](https://user-images.githubusercontent.com/93427264/172993460-33b8af67-0cc6-481a-9f20-8763518e99eb.png)
 ### NULL DATASET:
@@ -58,7 +58,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ### DATA HEAD():
 ![image](https://user-images.githubusercontent.com/93427264/172993626-b02bad3b-fb10-4c59-9f43-4f52a69ff8f3.png)
 ### X.HEAD():
-![image](https://user-images.githubusercontent.com/93427264/172993649-0532c308-ec9e-430a-aa62-ed1d720ee905.png)
+![image](https://user-images.githubusercontent.com/93427264/172994007-5d15b1ce-ae1f-4887-9a5d-3b7fbe564698.png)
 ### ACUURACY():
 ![image](https://user-images.githubusercontent.com/93427264/172993704-d0c99a69-3693-4d3f-9376-f98420460519.png)
 ### DATA PREDICTION:
